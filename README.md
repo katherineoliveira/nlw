@@ -5,4 +5,4 @@
 
  Estudo em andamento e aperfeiçoamento. :blush:
 
- Tecnologias: HTML, CSS e em breve Javascript.
+ Tecnologias: HTML, CSS e Javascript.

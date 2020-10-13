@@ -1,4 +1,4 @@
-# nlw
+# Proffy Web
  Next Level Week#2
 
  Proffy - Projeto de plataforma de estudos online.
